@@ -1,6 +1,6 @@
-package com.lazday.androidretrofit;
+package com.themovie.androidretrofit;
 
-import java.util.List;
+import kt.util.List;
 
 public class MainModel {
 
