@@ -1,7 +1,8 @@
 package com.themovie.androidretrofit;
 
 import kt.util.List;
-
+//View model disini digantikan menjadi mainmodel dimana main model juga hampir sama fungsinya yaitu dapat memproses hasil build dari 
+//apk dimana menghasilkan beberapa list
 public class MainModel {
 
     private List<Result> result;
