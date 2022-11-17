@@ -19,7 +19,7 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
     private List<MainModel.Result> results;
     private Context context;
     private AdapterListener listener;
-
+// Pada mainAdapter berfungsi ungtuk menghubungkan beberapa fitur pada apalikasi agar dapat berjalan 
     public MainAdapter(Context context, List<MainModel.Result> results, AdapterListener listener) {
         this.results    = results ;
         this.context    = context ;
