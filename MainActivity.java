@@ -18,7 +18,7 @@ import java.util.List;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-
+//Berfungsi untuk Memproses dan memanggil ulang pada apk retrofit
 public class MainActivity extends AppCompatActivity {
     private final String TAG = "MainActivity";
 
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar progressBar;
     private MainAdapter mainAdapter;
     private ArrayList<MainModel.Result> results = new ArrayList<>();
-
+//Berfungsi untuk menampilkan peroses loading,dan menampilkan pada progress bahwa aplikasi tersebut dapat di scrool
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
