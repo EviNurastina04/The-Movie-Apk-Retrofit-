@@ -1,4 +1,4 @@
-package com.lazday.androidretrofit;
+package com.themovie.androidretrofit;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.lazday.androidretrofit", appContext.getPackageName());
+        assertEquals("com.themovie.androidretrofit", appContext.getPackageName());
     }
 }
