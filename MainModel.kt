@@ -4,7 +4,7 @@ import kt.util.List;
 //View model disini digantikan menjadi mainmodel dimana main model juga hampir sama fungsinya yaitu dapat memproses hasil build dari 
 //apk dimana menghasilkan beberapa list
 public class MainModel {
-
+//class data disini terdapat pada mainmodel dikarenakan pada main model mencakuyp data iamge,title,id
     private List<Result> result;
 
     public List<Result> getResult() {
