@@ -12,8 +12,8 @@ import android.widget.ProgressBar;
 
 import com.themovie.androidretrofit.retrofit.ApiService;
 
-import java.util.ArrayList;
-import java.util.List;
+import kt.util.ArrayList;
+import kt.util.List;
 
 import retrofit2.Call;
 import retrofit2.Callback;
