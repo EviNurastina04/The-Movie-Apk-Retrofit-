@@ -1,4 +1,4 @@
-package com.lazday.androidretrofit.retrofit;
+package com.themovie.androidretrofit.retrofit;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
