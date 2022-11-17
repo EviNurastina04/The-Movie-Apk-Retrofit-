@@ -1,4 +1,4 @@
-package com.lazday.androidretrofit;
+package com.themovie.androidretrofit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
