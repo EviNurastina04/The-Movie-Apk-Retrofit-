@@ -1,4 +1,4 @@
-package com.lazday.androidretrofit;
+package com.themovie.androidretrofit;
 
 import android.content.Context;
 import android.view.LayoutInflater;
