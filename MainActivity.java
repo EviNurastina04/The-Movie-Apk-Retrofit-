@@ -1,4 +1,4 @@
-package com.lazday.androidretrofit;
+package com.themovie.androidretrofit;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -10,7 +10,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ProgressBar;
 
-import com.lazday.androidretrofit.retrofit.ApiService;
+import com.themovie.androidretrofit.retrofit.ApiService;
 
 import java.util.ArrayList;
 import java.util.List;
