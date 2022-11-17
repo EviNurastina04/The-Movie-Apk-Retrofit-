@@ -12,10 +12,10 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.squareup.picasso.Picasso;
 
-import java.util.List;
+import kt.util.List;
 
 public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
-
+//Pada class MainAdapter ini berfungsi untuk menghubungkan database ke aplikasi
     private List<MainModel.Result> results;
     private Context context;
     private AdapterListener listener;
