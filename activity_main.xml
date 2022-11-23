@@ -17,7 +17,7 @@
         tools:listitem="@layout/adapter_main"
         />
     <ProgressBar
-                 //Pada progress bar ini berfungsi untuka mneghasilkan ataupun menampolkan load gambar pada aplikasi ketika koneksi tidak lancar atau kurang baik
+                 //Pada progress bar ini berfungsi untuka mneghasilkan ataupun menampIlkan load gambar pada aplikasi ketika koneksi tidak lancar atau kurang baik
         android:id="@+id/progressBar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
